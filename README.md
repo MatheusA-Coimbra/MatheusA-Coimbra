@@ -12,19 +12,19 @@
  <td align="center" colspan="11"></td>
 </tr> 
 <tr>
-<td><a href="https://github.com/MatheusA-Coimbra" target="_blank"><img src="https://github.com/MatheusA-Coimbra/MatheusA-Coimbra/blob/main/img/github.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://github.com/MatheusA-Coimbra" target="_blank"><img src="https://github.com/MatheusA-Coimbra/MatheusA-Coimbra/blob/main/img/github2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="mailto:davidson.afg@gmail.com" target="_blank"><img src="https://github.com/MatheusA-Coimbra/MatheusA-Coimbra/blob/main/img/gmail.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="mailto:davidson.afg@gmail.com" target="_blank"><img src="https://github.com/MatheusA-Coimbra/MatheusA-Coimbra/blob/main/img/gmail2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://wa.me/5531992259540" target="_blank"><img src="https://github.com/MatheusA-Coimbra/MatheusA-Coimbra/blob/main/img/wpp.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://wa.me/5531992259540" target="_blank"><img src="https://github.com/MatheusA-Coimbra/MatheusA-Coimbra/blob/main/img/wpp2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.instagram.com/davidson_faria/" target="_blank"><img src="https://github.com/MatheusA-Coimbra/MatheusA-Coimbra/blob/main/img/insta.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.instagram.com/davidson_faria/" target="_blank"><img src="https://github.com/MatheusA-Coimbra/MatheusA-Coimbra/blob/main/img/insta2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.linkedin.com/in/MatheusA-Coimbra/" target="_blank"><img src="https://github.com/MatheusA-Coimbra/MatheusA-Coimbra/blob/main/img/linkedin.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.linkedin.com/in/MatheusA-Coimbra/" target="_blank"><img src="https://github.com/MatheusA-Coimbra/MatheusA-Coimbra/blob/main/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://discordapp.com/users/287784703963168768" target="_blank"><img src="https://github.com/MatheusA-Coimbra/MatheusA-Coimbra/blob/main/img/discord.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://discordapp.com/users/287784703963168768" target="_blank"><img src="https://github.com/MatheusA-Coimbra/MatheusA-Coimbra/blob/main/img/discord2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://calendly.com/MatheusA-Coimbra/" target="_blank"><img src="https://github.com/MatheusA-Coimbra/MatheusA-Coimbra/blob/main/img/calendar.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://calendly.com/MatheusA-Coimbra/" target="_blank"><img src="https://github.com/MatheusA-Coimbra/MatheusA-Coimbra/blob/main/img/calendar2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 </tr>
 <tr>
@@ -34,7 +34,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Matheus</code>, tenho 20 anos e moro em BH. Atualmente estou no 1° período de Ciencia da Computação da <a href="https://www.pucminas.br/" target="_blank">Pontifícia Universidade Católica de Minas Gerais</a></i>👨🏻‍💻<br />
+<i><b>Olá</b> :wave:, sou o <code>Matheus</code>, tenho 20 anos e moro em BH. Atualmente estou no 1° período de Ciência da Computação da <a href="https://www.pucminas.br/" target="_blank">Pontifícia Universidade Católica de Minas Gerais</a></i>👨🏻‍💻<br />
 </div>
 
 -----
@@ -55,15 +55,14 @@ Minhas habilidades incluem programação em C, Java e Javascript, além de traba
 
 <div align="justify">
 <p>
-- :necktie: &nbsp; Trabalho como Assistente de TI há 1 ano.<br />
-- :man_student: &nbsp; Sou estudante de ADS - Análise e Desenvolvimento de Sistemas.<br />
-- :briefcase: &nbsp; Tenho interesse em vagas para Dev Jr.<br />
-- :basketball: &nbsp; Também gosto bastante de basquete/NBA.<br />
+- :man_student: &nbsp; Sou estudante de CS - Ciência da Computação.<br />
+- :briefcase: &nbsp; Tenho interesse em vagas para estágio.<br />
+- 🏐: &nbsp; Gosto bastante de Volley.<br />
 - :airplane: &nbsp; Adoro viajar e conhecer novos lugares.<br />
-- :video_game: &nbsp; Gosto de jogar LOL nas horas vagas.<br />
-- :parrot: &nbsp; Meu pet é uma cacatua com um belo topete.<br />
+- :video_game: &nbsp; Gosto de jogar nas horas vagas.<br />
+- 🐶: &nbsp; Meu pet é um cachorro que adora usar camisa.<br />
 - :speech_balloon: &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
-- :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:davidson.afg@gmail.com" target="_blank">e-mail</a> pessoal.<br />
+- :mailbox: &nbsp; Para me encontrar, esse é meu <a href="@gmail.com" target="_blank">e-mail</a> pessoal.<br />
 - :calendar: &nbsp; Essa é minha <a href="https://calendly.com/MatheusA-Coimbra/30min" target="_blank">agenda</a> se quiser marcar um horário para falarmos.<br />
 </p>
 </div>
