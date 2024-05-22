@@ -16,15 +16,9 @@
 </td>
 <td><a href="" target="_blank"><img src="https://github.com/MatheusA-Coimbra/MatheusA-Coimbra/blob/main/img/gmail2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href=""><img src="https://github.com/MatheusA-Coimbra/MatheusA-Coimbra/blob/main/img/wpp2.png?raw=true" width="50px" height="50px"/></a>
-</td>
 <td><a href="" target="_blank"><img src="https://github.com/MatheusA-Coimbra/MatheusA-Coimbra/blob/main/img/insta2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="" target="_blank"><img src="https://github.com/MatheusA-Coimbra/MatheusA-Coimbra/blob/main/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="" target="_blank"><img src="https://github.com/MatheusA-Coimbra/MatheusA-Coimbra/blob/main/img/discord2.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="" target="_blank"><img src="https://github.com/MatheusA-Coimbra/MatheusA-Coimbra/blob/main/img/calendar2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 </tr>
 <tr>
@@ -58,7 +52,7 @@ Minhas habilidades incluem programação em C, Java, Javascript. Estou sempre em
 - :man_student: &nbsp; Sou estudante de CS - Ciência da Computação.<br />
 - :briefcase: &nbsp; Tenho interesse em vagas para estágio.<br />
 - :airplane: &nbsp; Adoro viajar e conhecer novos lugares.<br />
-- :mailbox: &nbsp; Para me encontrar, esse é meu <a href="@gmail.com" target="_blank">e-mail</a> pessoal.<br />
+- :mailbox: &nbsp; Para me encontrar, esse é meu <a href="" target="_blank">e-mail</a> pessoal.<br />
 </p>
 </div>
 </div>
@@ -72,7 +66,7 @@ Minhas habilidades incluem programação em C, Java, Javascript. Estou sempre em
 
 <code><a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img width="32" height="32" src="https://github.com/MatheusA-Coimbra/MatheusA-Coimbra/blob/main/img/c.png?raw=true"/></a></code>
 &nbsp;
-<code><a href="https://isocpp.org/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/cpp.svg"/></a></code> 
+<code><a href="https://isocpp.org/" target="_blank"><img width="32" height="32" src="https://github.com/MatheusA-Coimbra/MatheusA-Coimbra/blob/main/img/cpp.svg"/></a></code> 
 &nbsp;
 <code><a href="https://www.w3schools.com/html/" target="_blank"><img width="32" height="32" src="https://github.com/MatheusA-Coimbra/MatheusA-Coimbra/blob/main/img/html.svg"/></a></code>
 &nbsp; 
@@ -115,11 +109,10 @@ Minhas habilidades incluem programação em C, Java, Javascript. Estou sempre em
 -----
 
 <div>
-<a href="https://www.linkedin.com/in/MatheusA-Coimbra/" target="_blank"><img alt"Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:davidson.afg@gmail.com" target="_blank"><img alt"Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://wa.me/5531992259540" target="_blank"><img alt"WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-<a href="https://discordapp.com/users/287784703963168768" target="_blank"><img alt"Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
-<a href="https://www.instagram.com/davidson_faria/" target="_blank"><img alt"Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="" target="_blank"><img alt"Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="" target="_blank"><img alt"Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="" target="_blank"><img alt"Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a href="" target="_blank"><img alt"Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </div>
 
 <div>
