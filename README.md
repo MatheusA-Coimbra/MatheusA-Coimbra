@@ -14,17 +14,17 @@
 <tr>
 <td><a href="https://github.com/MatheusA-Coimbra" target="_blank"><img src="https://github.com/MatheusA-Coimbra/MatheusA-Coimbra/blob/main/img/github2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="mailto:davidson.afg@gmail.com" target="_blank"><img src="https://github.com/MatheusA-Coimbra/MatheusA-Coimbra/blob/main/img/gmail2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="" target="_blank"><img src="https://github.com/MatheusA-Coimbra/MatheusA-Coimbra/blob/main/img/gmail2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://wa.me/5531992259540" target="_blank"><img src="https://github.com/MatheusA-Coimbra/MatheusA-Coimbra/blob/main/img/wpp2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href=""><img src="https://github.com/MatheusA-Coimbra/MatheusA-Coimbra/blob/main/img/wpp2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.instagram.com/davidson_faria/" target="_blank"><img src="https://github.com/MatheusA-Coimbra/MatheusA-Coimbra/blob/main/img/insta2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="" target="_blank"><img src="https://github.com/MatheusA-Coimbra/MatheusA-Coimbra/blob/main/img/insta2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.linkedin.com/in/MatheusA-Coimbra/" target="_blank"><img src="https://github.com/MatheusA-Coimbra/MatheusA-Coimbra/blob/main/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="" target="_blank"><img src="https://github.com/MatheusA-Coimbra/MatheusA-Coimbra/blob/main/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://discordapp.com/users/287784703963168768" target="_blank"><img src="https://github.com/MatheusA-Coimbra/MatheusA-Coimbra/blob/main/img/discord2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="" target="_blank"><img src="https://github.com/MatheusA-Coimbra/MatheusA-Coimbra/blob/main/img/discord2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://calendly.com/MatheusA-Coimbra/" target="_blank"><img src="https://github.com/MatheusA-Coimbra/MatheusA-Coimbra/blob/main/img/calendar2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="" target="_blank"><img src="https://github.com/MatheusA-Coimbra/MatheusA-Coimbra/blob/main/img/calendar2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 </tr>
 <tr>
